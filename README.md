@@ -53,7 +53,7 @@ lib/
 1. Clone the repository:
 
 ```
-git clone <your-repo-link>
+git clone https://github.com/NileshKumar906/flutter-crm-app/
 ```
 
 2. Navigate to project folder:
